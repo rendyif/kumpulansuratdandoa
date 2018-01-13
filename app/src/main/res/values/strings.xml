@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kumpulan Surat Pendek dan Doa</string>
+    <string name="intro_text">Doa-Doa dalam Al-Qur\`an</string>
+    <string name="pilih_doa">Pilih Doa.</string>
+    <string name="doa_1">Do\`a Mohon Kebaikan Dunia Akhirat.</string>
+    <string name="doa_2">Do\`a Keluarga Bahagia.</string>
+    <string name="doa_3">Do\`a Mohon Mohon Ampunan Untuk Orangtua</string>
+    <string name="app_desc">Rendy dan Afif</string>
+
+    <string-array name="doa2">
+        <item>Doa Sapu Jagad</item>
+        <item>Doa Mohon Ampunan Bagi Orangtua</item>
+        <item>Doa Kesabaran dan Minta Pertolongan</item>
+        <item>Doa Diterima Amalan</item>
+        <item>Doa Keluarga Bahagia</item>
+        <item>Doa Perlindungan dari Kesesatan</item>
+        <item>Doa Mohon Anugerah Kekuatan, Kekuasaan, dan Rezeki</item>
+        <item>Doa Mohon Pertolongan</item>
+        <item>Doa Curahan Rizki</item>
+        <item>Doa Mohon Ampunan dan Rahmat</item>
+        <item>Doa Diberikan Kemampuan Bersyukur</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
